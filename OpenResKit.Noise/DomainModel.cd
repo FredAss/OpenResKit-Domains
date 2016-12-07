@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="OpenResKit.Noise.MeasuringMethod">
+    <Position X="8" Y="3" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAgAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MeasuringMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="OpenResKit.Noise.MeasuringPoint">
+    <Position X="5.25" Y="5.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAEAAAAgAAAAAAQFAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>MeasuringPoint.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Position" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OpenResKit.Noise.NoiseMap">
+    <Position X="2" Y="8.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACABAAAAAAgAAAAAAAAAAAAAAEAAABAAAAAAAAAAA=</HashCode>
+      <FileName>NoiseMap.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="File" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OpenResKit.Noise.NoiseMapPosition">
+    <Position X="5.25" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACAAAAEABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NoiseMapPosition.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="NoiseMap" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OpenResKit.Noise.NoiseMeasurement">
+    <Position X="5.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAQAAAAABgAAAAgAAAACAAAAAAAAAAgAAACAAA=</HashCode>
+      <FileName>NoiseMeasurement.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Method" />
+      <Property Name="MeasuringPoint" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="OpenResKit.Noise.File">
+    <Position X="2" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>File.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

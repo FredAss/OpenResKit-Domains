@@ -1,0 +1,970 @@
+1;01;Abfälle, die beim Aufsuchen, Ausbeuten und Gewinnen sowie bei der physikalischen und chemischen Behandlung von Bodenschätzen entstehen
+2;0101;Abfälle aus dem Abbau von Bodenschätzen
+3;010101;Abfälle aus dem Abbau von metallhaltigen Bodenschätzen
+4;010102;Abfälle aus dem Abbau von nichtmetallhaltigen Bodenschätzen
+5;0103;Abfälle aus der physikalischen und chemischen Verarbeitung von metallhaltigen Bodenschätzen
+6;010304;Säure bildende Aufbereitungsrückstände aus der Verarbeitung von sulfidischem Erz
+7;010305;andere Aufbereitungsrückstände, die gefährliche Stoffe enthalten
+8;010306;Aufbereitungsrückstände mit Ausnahme derjenigen, die unter 01 03 04 und 01 03 05 fallen
+9;010307;andere, gefährliche Stoffe enthaltende Abfälle aus der physikalischen und chemischen Verarbeitung von metallhaltigen Bodenschätzen
+10;010308;staubende und pulvrige Abfälle mit Ausnahme derjenigen, die unter 01 03 07 fallen
+11;010309;Rotschlamm aus der Aluminiumoxidherstellung mit Ausnahme von Rotschlamm, der unter 01 03 07 fällt
+12;010399;Abfälle a. n. g.
+13;0104;Abfälle aus der physikalischen und chemischen Weiterverarbeitung von nichtmetallhaltigen Bodenschätzen
+14;010407;gefährliche Stoffe enthaltende Abfälle aus der physikalischen und chemischen Weiterverarbeitung von nichtmetallhaltigen Bodenschätzen
+15;010408;Abfälle von Kies- und Gesteinsbruch mit Ausnahme derjenigen, die unter 01 04 07 fallen
+16;010409;Abfälle von Sand und Ton
+17;010410;staubende und pulvrige Abfälle mit Ausnahme derjenigen, die unter 01 04 07 fallen
+18;010411;Abfälle aus der Verarbeitung von Kali- und Steinsalz mit Ausnahme derjenigen, die unter 01 04 07 fallen
+19;010412;Aufbereitungsrückstände und andere Abfälle aus der Wäsche und Reinigung von Bodenschätzen mit Ausnahme derjenigen, die unter 01 04 07 und 01 04 11 fallen
+20;010413;Abfälle aus Steinmetz- und -sägearbeiten mit Ausnahme derjenigen, die unter 01 04 07 fallen
+21;010499;Abfälle a. n. g.
+22;0105;Bohrschlämme und andere Bohrabfälle
+23;010504;Schlämme und Abfälle aus Süßwasserbohrungen
+24;010505;ölhaltige Bohrschlämme und -abfälle
+25;010506;Bohrschlämme und andere Bohrabfälle, die gefährliche Stoffe enthalten
+26;010507;barythaltige Bohrschlämme und -abfälle mit Ausnahme derjenigen, die unter 01 05 05 und 01 05 06 fallen
+27;010508;chloridhaltige Bohrschlämme und -abfälle mit Ausnahme derjenigen, die unter 01 05 05 und 01 05 06 fallen
+28;010599;Abfälle a. n. g.
+29;02;Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei sowie der Herstellung und Verarbeitung von Nahrungsmitteln
+30;0201;Abfälle aus Landwirtschaft, Gartenbau, Teichwirtschaft, Forstwirtschaft, Jagd und Fischerei
+31;020101;Schlämme von Wasch- und Reinigungsvorgängen
+32;020102;Abfälle aus tierischem Gewebe
+33;020103;Abfälle aus pflanzlichem Gewebe
+34;020104;Kunststoffabfälle (ohne Verpackungen)
+35;020106;tierische Ausscheidungen, Gülle/Jauche und Stallmist (einschließlich verdorbenes Stroh), Abwässer, getrennt gesammelt und extern behandelt
+36;020107;Abfälle aus der Forstwirtschaft
+37;020108;Abfälle von Chemikalien für die Landwirtschaft, die gefährliche Stoffe enthalten
+38;020109;Abfälle von Chemikalien für die Landwirtschaft mit Ausnahme derjenigen, die unter 02 01 08 fallen
+39;020110;Metallabfälle
+40;020199;Abfälle a. n. g.
+41;0202;Abfälle aus der Zubereitung und Verarbeitung von Fleisch, Fisch und anderen Nahrungsmitteln tierischen Ursprungs
+42;020201;Schlämme von Wasch- und Reinigungsvorgängen
+43;020202;Abfälle aus tierischem Gewebe
+44;020203;für Verzehr oder Verarbeitung ungeeignete Stoffe
+45;020204;Schlämme aus der betriebseigenen Abwasserbehandlung
+46;020299;Abfälle a. n. g.
+47;0203;Abfälle aus der Zubereitung und Verarbeitung von Obst, Gemüse, Getreide, Speiseölen, Kakao, Kaffee, Tee und Tabak, aus der Konservenherstellung, der Herstellung von Hefe und Hefeextrakt sowie der Zubereitung und Fermentierung von Melasse
+48;020301;Schlämme aus Wasch-, Reinigungs-, Schäl-, Zentrifugier- und Abtrennprozessen
+49;020302;Abfälle von Konservierungsstoffen
+50;020303;Abfälle aus der Extraktion mit Lösemitteln
+51;020304;für Verzehr oder Verarbeitung ungeeignete Stoffe
+52;020305;Schlämme aus der betriebseigenen Abwasserbehandlung
+53;020399;Abfälle a. n. g.
+54;0204;Abfälle aus der Zuckerherstellung
+55;020401;Rübenerde
+56;020402;nicht spezifikationsgerechter Calciumcarbonatschlamm
+57;020403;Schlämme aus der betriebseigenen Abwasserbehandlung
+58;020499;Abfälle a. n. g.
+59;0205;Abfälle aus der Milchverarbeitung
+60;020501;für Verzehr oder Verarbeitung ungeeignete Stoffe
+61;020502;Schlämme aus der betriebseigenen Abwasserbehandlung
+62;020599;Abfälle a. n. g.
+63;0206;Abfälle aus der Herstellung von Back- und Süßwaren
+64;020601;für Verzehr oder Verarbeitung ungeeignete Stoffe
+65;020602;Abfälle von Konservierungsstoffen
+66;020603;Schlämme aus der betriebseigenen Abwasserbehandlung
+67;020699;Abfälle a. n. g.
+68;0207;Abfälle aus der Herstellung von alkoholischen und alkoholfreien Getränken (ohne Kaffee, Tee und Kakao)
+69;020701;Abfälle aus der Wäsche, Reinigung und mechanischen Zerkleinerung des Rohmaterials
+70;020702;Abfälle aus der Alkoholdestillation
+71;020703;Abfälle aus der chemischen Behandlung
+72;020704;für Verzehr oder Verarbeitung ungeeignete Stoffe
+73;020705;Schlämme aus der betriebseigenen Abwasserbehandlung
+74;020799;Abfälle a. n. g.
+75;03;Abfälle aus der Holzbearbeitung und der Herstellung von Platten, Möbeln, Zellstoffen, Papier und Pappe
+76;0301;Abfälle aus der Holzbearbeitung und der Herstellung von Platten und Möbeln
+77;030101;Rinden- und Korkabfälle
+78;030104;Sägemehl, Späne, Abschnitte, Holz, Spanplatten und Furniere, die gefährliche Stoffe enthalten
+79;030105;Sägemehl, Späne, Abschnitte, Holz, Spanplatten und Furniere mit Ausnahme derjenigen, die unter 03 01 04 fallen
+80;030199;Abfälle a. n. g.
+81;0302;Abfälle aus der Holzkonservierung
+82;030201;halogenfreie organische Holzschutzmittel
+83;030202;chlororganische Holzschutzmittel
+84;030203;metallorganische Holzschutzmittel
+85;030204;anorganische Holzschutzmittel
+86;030205;andere Holzschutzmittel, die gefährliche Stoffe enthalten
+87;030299;Holzschutzmittel a. n. g.
+88;0303;Abfälle aus der Herstellung und Verarbeitung von Zellstoff, Papier, Karton und Pappe
+89;030301;Rinden- und Holzabfälle
+90;030302;Sulfitschlämme (aus der Rückgewinnung von Kochlaugen)
+91;030305;De-inking-Schlämme aus dem Papierrecycling
+92;030307;mechanisch abgetrennte Abfälle aus der Auflösung von Papier- und Pappabfällen
+93;030308;Abfälle aus dem Sortieren von Papier und Pappe für das Recycling
+94;030309;Kalkschlammabfälle
+95;030310;Faserabfälle, Faser-, Füller- und Überzugsschlämme aus der mechanischen Abtrennung
+96;030311;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 03 03 10 fallen
+97;030399;Abfälle a. n. g.
+98;04;Abfälle aus der Leder-, Pelz- und Textilindustrie
+99;0401;Abfälle aus der Leder- und Pelzindustrie
+100;040101;Fleischabschabungen und Häuteabfälle
+101;040102;geäschertes Leimleder
+102;040103;Entfettungsabfälle, lösemittelhaltig, ohne flüssige Phase
+103;040104;chromhaltige Gerbereibrühe
+104;040105;chromfreie Gerbereibrühe
+105;040106;chromhaltige Schlämme, insbesondere aus der betriebseigenen Abwasserbehandlung
+106;040107;chromfreie Schlämme, insbesondere aus der betriebseigenen Abwasserbehandlung
+107;040108;chromhaltige Abfälle aus gegerbtem Leder (Abschnitte, Schleifstaub, Falzspäne)
+108;040109;Abfälle aus der Zurichtung und dem Finish
+109;040199;Abfälle a. n. g.
+110;0402;Abfälle aus der Textilindustrie
+111;040209;Abfälle aus Verbundmaterialien (imprägnierte Textilien, Elastomer, Plastomer)
+112;040210;organische Stoffe aus Naturstoffen (z.B. Fette, Wachse)
+113;040214;Abfälle aus dem Finish, die organische Lösungsmittel enthalten
+114;040215;Abfälle aus dem Finish mit Ausnahme derjenigen, die unter 04 02 14 fallen
+115;040216;Farbstoffe und Pigmente, die gefährliche Stoffe enthalten
+116;040217;Farbstoffe und Pigmente mit Ausnahme derjenigen, die unter 04 02 16 fallen
+117;040219;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+118;040220;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 04 02 19 fallen
+119;040221;Abfälle aus unbehandelten Textilfasern
+120;040222;Abfälle aus verarbeiteten Textilfasern
+121;040299;Abfälle a. n. g.
+122;05;Abfälle aus der Erdölraffination, Erdgasreinigung und Kohlepyrolyse
+123;0501;Abfälle aus der Erdölraffination
+124;050102;Entsalzungsschlämme
+125;050103;Bodenschlämme aus Tanks
+126;050104;saure Alkylschlämme
+127;050105;verschüttetes Öl
+128;050106;ölhaltige Schlämme aus Betriebsvorgängen und Instandhaltung
+129;050107;Säureteere
+130;050108;andere Teere
+131;050109;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+132;050110;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 05 01 09 fallen
+133;050111;Abfälle aus der Brennstoffreinigung mit Basen
+134;050112;säurehaltige Öle
+135;050113;Schlämme aus der Kesselspeisewasseraufbereitung
+136;050114;Abfälle aus Kühlkolonnen
+137;050115;gebrauchte Filtertone
+138;050116;schwefelhaltige Abfälle aus der Ölentschwefelung
+139;050117;Bitumen
+140;050199;Abfälle a. n. g.
+141;0506;Abfälle aus der Kohlepyrolyse
+142;050601;Säureteere
+143;050603;andere Teere
+144;050604;Abfälle aus Kühlkolonnen
+145;050699;Abfälle a. n. g.
+146;0507;Abfälle aus Erdgasreinigung und -transport
+147;050701;quecksilberhaltige Abfälle
+148;050702;schwefelhaltige Abfälle
+149;050799;Abfälle a. n. g.
+150;06;Abfälle aus anorganisch-chemischen Prozessen
+151;0601;Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA) von Säuren
+152;060101;Schwefelsäure und schweflige Säure
+153;060102;Salzsäure
+154;060103;Flusssäure
+155;060104;Phosphorsäure und phosphorige Säure
+156;060105;Salpetersäure und salpetrige Säure
+157;060106;andere Säuren
+158;060199;Abfälle a. n. g.
+159;0602;Abfälle aus HZVA von Basen
+160;060201;Calciumhydroxid
+161;060203;Ammoniumhydroxid
+162;060204;Natrium- und Kaliumhydroxid
+163;060205;andere Basen
+164;060299;Abfälle a. n. g.
+165;0603;Abfälle aus HZVA von Salzen, Salzlösungen und Metalloxiden
+166;060311;feste Salze und Lösungen, die Cyanid enthalten
+167;060313;feste Salze und Lösungen, die Schwermetalle enthalten
+168;060314;feste Salze und Lösungen mit Ausnahme derjenigen, die unter 06 03 11 und 06 03 13 fallen
+169;060315;Metalloxide, die Schwermetalle enthalten
+170;060316;Metalloxide mit Ausnahme derjenigen, die unter 06 03 15 fallen
+171;060399;Abfälle a. n. g.
+172;0604;Metallhaltige Abfälle mit Ausnahme derjenigen, die unter 06 03 fallen
+173;060403;arsenhaltige Abfälle
+174;060404;quecksilberhaltige Abfälle
+175;060405;Abfälle, die andere Schwermetalle enthalten
+176;060499;Abfälle a. n. g.
+177;0605;Schlämme aus der betriebseigenen Abwasserbehandlung
+178;060502;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+179;060503;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 06 05 02 fallen
+180;0606;Abfälle aus HZVA von schwefelhaltigen Chemikalien, aus Schwefelchemie und Entschwefelungsprozessen
+181;060602;Abfälle, die gefährliche Sulfide enthalten
+182;060603;sulfidhaltige Abfälle mit Ausnahme derjenigen, die unter 06 06 02 fallen
+183;060699;Abfälle a. n. g.
+184;0607;Abfälle aus HZVA von Halogenen und aus der Halogenchemie
+185;060701;asbesthaltige Abfälle aus der Elektrolyse
+186;060702;Aktivkohle aus der Chlorherstellung
+187;060703;quecksilberhaltige Bariumsulfatschlämme
+188;060704;Lösungen und Säuren, z.B. Kontaktsäure
+189;060799;Abfälle a. n. g.
+190;0608;Abfälle aus HZVA von Silizium und Siliziumverbindungen
+191;060802;gefährliche Chlorsilane enthaltende Abfälle
+192;060899;Abfälle a. n. g.
+193;0609;Abfälle aus HZVA von phosphorhaltigen Chemikalien aus der Phosphorchemie
+194;060902;phosphorhaltige Schlacke
+195;060903;Reaktionsabfälle auf Calciumbasis, die gefährliche Stoffe enthalten
+196;060904;Reaktionsabfälle auf Calciumbasis mit Ausnahme derjenigen, die unter 06 09 03 fallen
+197;060999;Abfälle a. n. g.
+198;0610;Abfälle aus HZVA von stickstoffhaltigen Chemikalien aus der Stickstoffchemie und der Herstellung von Düngemitteln
+199;061002;Abfälle, die gefährliche Stoffe enthalten
+200;061099;Abfälle a. n. g.
+201;0611;Abfälle aus der Herstellung von anorganischen Pigmenten und Farbgebern
+202;061101;Reaktionsabfälle auf Calciumbasis aus der Titandioxidherstellung
+203;061199;Abfälle a. n. g.
+204;0613;Abfälle aus anorganischen chemischen Prozessen a. n. g.
+205;061301;anorganische Pflanzenschutzmittel, Holzschutzmittel und andere Biozide
+206;061302;gebrauchte Aktivkohle (außer 06 07 02)
+207;061303;Industrieruß
+208;061304;Abfälle aus der Asbestverarbeitung
+209;061305;Ofen- und Kaminruß
+210;061399;Abfälle a. n. g.
+211;07;Abfälle aus organisch-chemischen Prozessen
+212;0701;Abfälle aus Herstellung, Zubereitung, Vertrieb und Anwendung (HZVA) organischer Grundchemikalien
+213;070101;wässrige Waschflüssigkeiten und Mutterlaugen
+214;070103;halogenorganische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+215;070104;andere organische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+216;070107;halogenierte Reaktions- und Destillationsrückstände
+217;070108;andere Reaktions- und Destillationsrückstände
+218;070109;halogenierte Filterkuchen, gebrauchte Aufsaugmaterialien
+219;070110;andere Filterkuchen, gebrauchte Aufsaugmaterialien
+220;070111;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+221;070112;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 01 11 fallen
+222;070199;Abfälle a. n. g.
+223;0702;Abfälle aus HZVA von Kunststoffen, synthetischem Gummi und Kunstfasern
+224;070201;wässrige Waschflüssigkeiten und Mutterlaugen
+225;070203;halogenorganische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+226;070204;andere organische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+227;070207;halogenierte Reaktions- und Destillationsrückstände
+228;070208;andere Reaktions- und Destillationsrückstände
+229;070209;halogenierte Filterkuchen, gebrauchte Aufsaugmaterialien
+230;070210;andere Filterkuchen, gebrauchte Aufsaugmaterialien
+231;070211;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+232;070212;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 02 11 fallen
+233;070213;Kunststoffabfälle
+234;070214;Abfälle von Zusatzstoffen, die gefährliche Stoffe enthalten
+235;070215;Abfälle von Zusatzstoffen mit Ausnahme derjenigen, die unter 07 02 14 fallen
+236;070216;gefährliche Silicone enthaltende Abfälle
+237;070217;siliconhaltige Abfälle, andere als die in 07 02 16 genannten
+238;070299;Abfälle a. n. g.
+239;0703;Abfälle aus HZVA von organischen Farbstoffen und Pigmenten (außer 06 11)
+240;070301;wässrige Waschflüssigkeiten und Mutterlaugen
+241;070303;halogenorganische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+242;070304;andere organische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+243;070307;halogenierte Reaktions- und Destillationsrückstände
+244;070308;andere Reaktions- und Destillationsrückstände
+245;070309;halogenierte Filterkuchen, gebrauchte Aufsaugmaterialien
+246;070310;andere Filterkuchen, gebrauchte Aufsaugmaterialien
+247;070311;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+248;070312;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 03 11 fallen
+249;070399;Abfälle a. n. g.
+250;0704;Abfälle aus HZVA von organischen Pflanzenschutzmitteln (außer 02 01 08 und 02 01 09), Holzschutzmitteln (außer 03 02) und anderen Bioziden
+251;070401;wässrige Waschflüssigkeiten und Mutterlaugen
+252;070403;halogenorganische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+253;070404;andere organische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+254;070407;halogenierte Reaktions- und Destillationsrückstände
+255;070408;andere Reaktions- und Destillationsrückstände
+256;070409;halogenierte Filterkuchen, gebrauchte Aufsaugmaterialien
+257;070410;andere Filterkuchen, gebrauchte Aufsaugmaterialien
+258;070411;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+259;070412;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 04 11 fallen
+260;070413;feste Abfälle, die gefährliche Stoffe enthalten
+261;070499;Abfälle a. n. g.
+262;0705;Abfälle aus HZVA von Pharmazeutika
+263;070501;wässrige Waschflüssigkeiten und Mutterlaugen
+264;070503;halogenorganische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+265;070504;andere organische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+266;070507;halogenierte Reaktions- und Destillationsrückstände
+267;070508;andere Reaktions- und Destillationsrückstände
+268;070509;halogenierte Filterkuchen, gebrauchte Aufsaugmaterialien
+269;070510;andere Filterkuchen, gebrauchte Aufsaugmaterialien
+270;070511;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+271;070512;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 05 11 fallen
+272;070513;feste Abfälle, die gefährliche Stoffe enthalten
+273;070514;feste Abfälle mit Ausnahme derjenigen, die unter 07 05 13 fallen
+274;070599;Abfälle a. n. g.
+275;0706;Abfälle aus HZVA von Fetten, Schmierstoffen, Seifen, Waschmitteln, Desinfektionsmitteln und Körperpflegemitteln
+276;070601;wässrige Waschflüssigkeiten und Mutterlaugen
+277;070603;halogenorganische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+278;070604;andere organische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+279;070607;halogenierte Reaktions- und Destillationsrückstände
+280;070608;andere Reaktions- und Destillationsrückstände
+281;070609;halogenierte Filterkuchen, gebrauchte Aufsaugmaterialien
+282;070610;andere Filterkuchen, gebrauchte Aufsaugmaterialien
+283;070611;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+284;070612;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 06 11 fallen
+285;070699;Abfälle a. n. g.
+286;0707;Abfälle aus HZVA von Feinchemikalien und Chemikalien a. n. g.
+287;070701;wässrige Waschflüssigkeiten und Mutterlaugen
+288;070703;halogenorganische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+289;070704;andere organische Lösemittel, Waschflüssigkeiten und Mutterlaugen
+290;070707;halogenierte Reaktions- und Destillationsrückstände
+291;070708;andere Reaktions- und Destillationsrückstände
+292;070709;halogenierte Filterkuchen, gebrauchte Aufsaugmaterialien
+293;070710;andere Filterkuchen, gebrauchte Aufsaugmaterialien
+294;070711;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+295;070712;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 07 07 11 fallen
+296;070799;Abfälle a. n. g.
+297;08;Abfälle aus HZVA von Beschichtungen (Farben, Lacke, Email), Klebstoffen, Dichtmassen und Druckfarben
+298;0801;Abfälle aus HZVA und Entfernung von Farben und Lacken
+299;080111;Farb- und Lackabfälle, die organische Lösemittel oder andere gefährliche Stoffe enthalten
+300;080112;Farb- und Lackabfälle mit Ausnahme derjenigen, die unter 08 01 11 fallen
+301;080113;Farb- oder Lackschlämme, die organische Lösemittel oder andere gefährliche Stoffe enthalten
+302;080114;Farb- oder Lackschlämme mit Ausnahme derjenigen, die unter 08 ß1 13 fallen
+303;080115;wässrige Schlämme, die Farben oder Lacke mit organischen Lösemitteln oder anderen gefährlichen Stoffen enthalten
+304;080116;wässrige Schlämme, die Farben oder Lacke enthalten, mit Ausnahme derjenigen, die unter 08 01 15 fallen
+305;080117;Abfälle aus der Farb- oder Lackentfernung, die organische Lösemittel oder andere gefährliche Stoffe enthalten
+306;080118;Abfälle aus der Farb- oder Lackentfernung mit Ausnahme derjenigen, die unter 08 01 17 fallen
+307;080119;wässrige Suspensionen, die Farben oder Lacke mit organischen Lösemitteln oder anderen gefährlichen Stoffen enthalten
+308;080120;wässrige Suspensionen, die Farben oder Lacke enthalten, mit Ausnahme derjenigen, die unter 08 01 19 fallen
+309;080121;Farb- oder Lackentfernerabfälle
+310;080199;Abfälle a. n. g.
+311;0802;Abfälle aus HZVA anderer Beschichtungen (einschließlich keramischer Werkstoffe)
+312;080201;Abfälle von Beschichtungspulver
+313;080202;wässrige Schlämme, die keramische Werkstoffe enthalten
+314;080203;wässrige Suspensionen, die keramische Werkstoffe enthalten
+315;080299;Abfälle a. n. g.
+316;0803;Abfälle aus HZVA von Druckfarben
+317;080307;wässrige Schlämme, die Druckfarben enthalten
+318;080308;wässrige flüssige Abfälle, die Druckfarben enthalten
+319;080312;Druckfarbenabfälle, die gefährliche Stoffe enthalten
+320;080313;Druckfarbenabfälle mit Ausnahme derjenigen, die unter 08 03 12 fallen
+321;080314;Druckfarbenschlämme, die gefährliche Stoffe enthalten
+322;080315;Druckfarbenschlämme mit Ausnahme derjenigen, die unter 08 03 14 fallen
+323;080316;Abfälle von Ätzlösungen
+324;080317;Tonerabfälle, die gefährliche Stoffe enthalten
+325;080318;Tonerabfälle mit Ausnahme derjenigen, die unter 08 03 17 fallen
+326;080319;Dispersionsöl
+327;080399;Abfälle a. n. g.
+328;0804;Abfälle aus HZVA von Klebstoffen und Dichtmassen (einschließlich wasserabweisender Materialien)
+329;080409;Klebstoff- und Dichtmassenabfälle, die organische Lösemittel oder andere gefährliche Stoffe enthalten
+330;080410;Klebstoff- und Dichtmassenabfälle mit Ausnahme derjenigen, die unter 08 04 09 fallen
+331;080411;klebstoff- und dichtmassenhaltige Schlämme, die organische Lösemittel oder andere gefährliche Stoffe enthalten
+332;080412;klebstoff- und dichtmassenhaltige Schlämme mit Ausnahme derjenigen, die unter 08 04 11 fallen
+333;080413;wässrige Schlämme, die Klebstoffe oder Dichtmassen mit organischen Lösemitteln oder anderen gefährlichen Stoffen enthalten
+334;080414;wässrige Schlämme, die Klebstoffe oder Dichtmassen enthalten, mit Ausnahme derjenigen, die unter 08 04 13 fallen
+335;080415;wässrige flüssige Abfälle, die Klebstoffe oder Dichtmassen mit organischen Lösemitteln oder anderen gefährlichen Stoffen enthalten
+336;080416;wässrige flüssige Abfälle, die Klebstoffe oder Dichtmassen enthalten, mit Ausnahme derjenigen, die unter 08 04 15 fallen
+337;080417;Harzöle
+338;080499;Abfälle a. n. g.
+339;0805;Nicht unter 08 aufgeführte Abfälle
+340;080501;Isocyanatabfälle
+341;09;Abfälle aus der fotografischen Industrie
+342;0901;Abfälle aus der fotografischen Industrie
+343;090101;Entwickler und Aktivatorenlösungen auf Wasserbasis
+344;090102;Offsetdruckplatten-Entwicklerlösungen auf Wasserbasis
+345;090103;Entwicklerlösungen auf Lösemittelbasis
+346;090104;Fixierbäder
+347;090105;Bleichlösungen und Bleich-Fixier-Bäder
+348;090106;silberhaltige Abfälle aus der betriebseigenen Behandlung fotografischer Abfälle
+349;090107;Filme und fotografische Papiere, die Silber oder Silberverbindungen enthalten
+350;090108;Filme und fotografische Papiere, die kein Silber und keine Silberverbindungen enthalten
+351;090110;Einwegkameras ohne Batterien
+352;090111;Einwegkameras mit Batterien, die unter 16 06 01, 16 06 02 oder 16 06 03 fallen
+353;090112;Einwegkameras mit Batterien mit Ausnahme derjenigen, die unter 09 01 11 fallen
+354;090113;wässrige flüssige Abfälle aus der betriebseigenen Silberrückgewinnung mit Ausnahme derjenigen, die unter 09 01 06 fallen
+355;090199;Abfälle a. n. g.
+356;10;Abfälle aus thermischen Prozessen
+357;1001;Abfälle aus Kraftwerken und anderen Verbrennungsanlagen (außer 19)
+358;100101;Rost- und Kesselasche, Schlacken und Kesselstaub mit Ausnahme von Kesselstaub, der unter 10 01 04 fällt
+359;100102;Filterstäube aus Kohlefeuerung
+360;100103;Filterstäube aus Torffeuerung und Feuerung mit (unbehandeltem) Holz
+361;100104;Filterstäube und Kesselstaub aus Ölfeuerung
+362;100105;Reaktionsabfälle auf Calciumbasis aus der Rauchgasentschwefelung in fester Form
+363;100107;Reaktionsabfälle auf Calciumbasis aus der Rauchgasentschwefelung in Form von Schlämmen
+364;100109;Schwefelsäure
+365;100113;Filterstäube aus emulgierten, als Brennstoffe verwendeten Kohlenwasserstoffen
+366;100114;Rost- und Kesselasche, Schlacken und Kesselstaub aus der Abfallmitverbrennung, die gefährliche Stoffe enthalten
+367;100115;Rost- und Kesselasche, Schlacken und Kesselstaub aus der Abfallmitverbrennung mit Ausnahme derjenigen, die unter 10 01 14 fallen
+368;100116;Filterstäube aus der Abfallmitverbrennung, die gefährliche Stoffe enthalten
+369;100117;Filterstäube aus der Abfallmitverbrennung mit Ausnahme derjenigen, die unter 10 01 16 fallen
+370;100118;Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+371;100119;Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 01 05, 10 01 07 und 10 01 18 fallen
+372;100120;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+373;100121;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 10 01 20 fallen
+374;100122;wässrige Schlämme aus der Kesselreinigung, die gefährliche Stoffe enthalten
+375;100123;wässrige Schlämme aus der Kesselreinigung mit Ausnahme derjenigen, die unter 10 01 22 fallen
+376;100124;Sande aus der Wirbelschichtfeuerung
+377;100125;Abfälle aus der Lagerung und Vorbereitung von Brennstoffen für Kohlekraftwerke
+378;100126;Abfälle aus der Kühlwasserbehandlung
+379;100199;Abfälle a. n. g.
+380;1002;Abfälle aus der Eisen- und Stahlindustrie
+381;100201;Abfälle aus der Verarbeitung von Schlacke
+382;100202;unbearbeitete Schlacke
+383;100207;feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+384;100208;Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 02 07 fallen
+385;100210;Walzzunder
+386;100211;ölhaltige Abfälle aus der Kühlwasserbehandlung
+387;100212;Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 02 11 fallen
+388;100213;Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+389;100214;Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 02 13 fallen
+390;100215;andere Schlämme und Filterkuchen
+391;100299;Abfälle a. n. g.
+392;1003;Abfälle aus der thermischen Aluminium-Metallurgie
+393;100302;Anodenschrott
+394;100304;Schlacken aus der Erstschmelze
+395;100305;Aluminiumoxidabfälle
+396;100308;Salzschlacken aus der Zweitschmelze
+397;100309;schwarze Krätzen aus der Zweitschmelze
+398;100315;Abschaum, der entzündlich ist oder in Kontakt mit Wasser entzündliche Gase in gefährlicher Menge abgibt
+399;100316;Abschaum mit Ausnahme desjenigen, der unter 10 03 15 fällt
+400;100317;teerhaltige Abfälle aus der Anodenherstellung
+401;100318;Abfälle aus der Anodenherstellung, die Kohlenstoffe enthalten, mit Ausnahme derjenigen, die unter 10 03 17 fallen
+402;100319;Filterstaub, der gefährliche Stoffe enthält
+403;100320;Filterstaub mit Ausnahme von Filterstaub, der unter 10 03 19 fällt
+404;100321;andere Teilchen und Staub (einschließlich Kugelmühlenstaub), die gefährliche Stoffe enthalten
+405;100322;Teilchen und Staub (einschließlich Kugelmühlenstaub) mit Ausnahme derjenigen, die unter 10 03 21 fallen
+406;100323;feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+407;100324;feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 03 23 fallen
+408;100325;Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+409;100326;Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 03 25 fallen
+410;100327;ölhaltige Abfälle aus der Kühlwasserbehandlung
+411;100328;Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 03 27 fallen
+412;100329;gefährliche Stoffe enthaltende Abfälle aus der Behandlung von Salzschlacken und schwarzen Krätzen
+413;100330;Abfälle aus der Behandlung von Salzschlacken und schwarzen Krätzen mit Ausnahme derjenigen, die unter 10 03 29 fallen
+414;100399;Abfälle a. n. g.
+415;1004;Abfälle aus der thermischen Bleimetallurgie
+416;100401;Schlacken (Erst- und Zweitschmelze)
+417;100402;Krätzen und Abschaum (Erst- und Zweitschmelze)
+418;100403;Calciumarsenat
+419;100404;Filterstaub
+420;100405;andere Teilchen und Staub
+421;100406;feste Abfälle aus der Abgasbehandlung
+422;100407;Schlämme und Filterkuchen aus der Abgasbehandlung
+423;100409;ölhaltige Abfälle aus der Kühlwasserbehandlung
+424;100410;Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 04 09 fallen
+425;100499;Abfälle a. n. g.
+426;1005;Abfälle aus der thermischen Zinkmetallurgie
+427;100501;Schlacken (Erst- und Zweitschmelze)
+428;100503;Filterstaub
+429;100504;andere Teilchen und Staub
+430;100505;feste Abfälle aus der Abgasbehandlung
+431;100506;Schlämme und Filterkuchen aus der Abgasbehandlung
+432;100508;ölhaltige Abfälle aus der Kühlwasserbehandlung
+433;100509;Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 05 08 fallen
+434;100510;Krätzen und Abschaum, die entzündlich sind oder in Kontakt mit Wasser entzündliche Gase in gefährlicher Menge abgeben
+435;100511;Krätzen und Abschaum mit Ausnahme derjenigen, die unter 10 05 10 fallen
+436;100599;Abfälle a. n. g.
+437;1006;Abfälle aus der thermischen Kupfermetallurgie
+438;100601;Schlacken (Erst- und Zweitschmelze)
+439;100602;Krätzen und Abschaum (Erst- und Zweitschmelze)
+440;100603;Filterstaub
+441;100604;andere Teilchen und Staub
+442;100606;feste Abfälle aus der Abgasbehandlung
+443;100607;Schlämme und Filterkuchen aus der Abgasbehandlung
+444;100609;ölhaltige Abfälle aus der Kühlwasserbehandlung
+445;100610;Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 06 09 fallen
+446;100699;Abfälle a. n. g.
+447;1007;Abfälle aus der thermischen Silber-, Gold- und Platinmetallurgie
+448;100701;Schlacken (Erst- und Zweitschmelze)
+449;100702;Krätzen und Abschaum (Erst- und Zweitschmelze)
+450;100703;feste Abfälle aus der Abgasbehandlung
+451;100704;andere Teilchen und Staub
+452;100705;Schlämme und Filterkuchen aus der Abgasbehandlung
+453;100707;ölhaltige Abfälle aus der Kühlwasserbehandlung
+454;100708;Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 07 07 fallen
+455;100799;Abfälle a. n. g.
+456;1008;Abfälle aus sonstiger thermischer Nichteisenmetallurgie
+457;100804;Teilchen und Staub
+458;100808;Salzschlacken (Erst- und Zweitschmelze)
+459;100809;andere Schlacken
+460;100810;Krätzen und Abschaum, die entzündlich sind oder in Kontakt mit Wasser entzündliche Gase in gefährlicher Menge abgeben
+461;100811;Krätzen und Abschaum mit Ausnahme derjenigen, die unter 10 08 10 fallen
+462;100812;teerhaltige Abfälle aus der Anodenherstellung
+463;100813;kohlenstoffhaltige Abfälle aus der Anodenherstellung mit Ausnahme derjenigen, die unter 10 08 12 fallen
+464;100814;Anodenschrott
+465;100815;Filterstaub, der gefährliche Stoffe enthält
+466;100816;Filterstaub mit Ausnahme desjenigen, der unter 10 08 15 fällt
+467;100817;Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+468;100818;Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 08 17 fallen
+469;100819;ölhaltige Abfälle aus der Kühlwasserbehandlung
+470;100820;Abfälle aus der Kühlwasserbehandlung mit Ausnahme derjenigen, die unter 10 08 19 fallen
+471;100899;Abfälle a. n. g.
+472;1009;Abfälle vom Gießen von Eisen und Stahl
+473;100903;Ofenschlacke
+474;100905;gefährliche Stoffe enthaltende Gießformen und -sande vor dem Gießen
+475;100906;Gießformen und -sande vor dem Gießen mit Ausnahme derjenigen, die unter 10 09 05 fallen
+476;100907;gefährliche Stoffe enthaltende Gießformen und -sande nach dem Gießen
+477;100908;Gießformen und -sande nach dem Gießen mit Ausnahme derjenigen, die unter 10 09 07 fallen
+478;100909;Filterstaub, der gefährliche Stoffe enthält
+479;100910;Filterstaub mit Ausnahme desjenigen, der unter 10 09 09 fällt
+480;100911;andere Teilchen, die gefährliche Stoffe enthalten
+481;100912;Teilchen mit Ausnahme derjenigen, die unter 10 09 11 fallen
+482;100913;Abfälle von Bindemitteln, die gefährliche Stoffe enthalten
+483;100914;Abfälle von Bindemitteln mit Ausnahme derjenigen, die unter 10 09 13 fallen
+484;100915;Abfälle aus rissanzeigenden Substanzen, die gefährliche Stoffe enthalten
+485;100916;Abfälle aus rissanzeigenden Substanzen mit Ausnahme derjenigen, die unter 10 09 15 fallen
+486;100999;Abfälle a. n. g.
+487;1010;Abfälle vom Gießen von Nichteisenmetallen
+488;101003;Ofenschlacke
+489;101005;gefährliche Stoffe enthaltende Gießformen und -sande vor dem Gießen
+490;101006;Gießformen und -sande vor dem Gießen mit Ausnahme derjenigen, die unter 10 10 05 fallen
+491;101007;gefährliche Stoffe enthaltende Gießformen und -sande nach dem Gießen
+492;101008;Gießformen und -sande nach dem Gießen mit Ausnahme derjenigen, die unter 10 10 07 fallen
+493;101009;Filterstaub, der gefährliche Stoffe enthält
+494;101010;Filterstaub mit Ausnahme desjenigen, der unter 10 10 09 fällt
+495;101011;andere Teilchen, die gefährliche Stoffe enthalten
+496;101012;Teilchen mit Ausnahme derjenigen, die unter 10 10 11 fallen
+497;101013;Abfälle von Bindemitteln, die gefährliche Stoffe enthalten
+498;101014;Abfälle von Bindemitteln mit Ausnahme derjenigen, die unter 10 10 13 fallen
+499;101015;Abfälle aus rissanzeigenden Substanzen, die gefährliche Stoffe enthalten
+500;101016;Abfälle aus rissanzeigenden Substanzen mit Ausnahme derjenigen, die unter 10 10 15 fallen
+501;101099;Abfälle a. n. g.
+502;1011;Abfälle aus der Herstellung von Glas und Glaserzeugnissen
+503;101103;Glasfaserabfall
+504;101105;Teilchen und Staub
+505;101109;Gemengeabfall mit gefährlichen Stoffen vor dem Schmelzen
+506;101110;Gemengeabfall vor dem Schmelzen mit Ausnahme desjenigen, der unter 10 11 09 fällt
+507;101111;Glasabfall in kleinen Teilchen und Glasstaub, die Schwermetalle enthalten (z.B. aus Elektronenstrahlröhren)
+508;101112;Glasabfall mit Ausnahme desjenigen, der unter 10 11 11 fällt
+509;101113;Glaspolier- und Glasschleifschlämme, die gefährliche Stoffe enthalten
+510;101114;Glaspolier- und Glasschleifschlämme mit Ausnahme derjenigen, die unter 10 11 13 fallen
+511;101115;feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+512;101116;feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 11 15 fallen
+513;101117;Schlämme und Filterkuchen aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+514;101118;Schlämme und Filterkuchen aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 11 17 fallen
+515;101119;feste Abfälle aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+516;101120;feste Abfälle aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 10 11 19 fallen
+517;101199;Abfälle a. n. g.
+518;1012;Abfälle aus der Herstellung von Keramikerzeugnissen und keramischen Baustoffen wie Ziegeln, Fliesen, Steinzeug
+519;101201;Rohmischungen vor dem Brennen
+520;101203;Teilchen und Staub
+521;101205;Schlämme und Filterkuchen aus der Abgasbehandlung
+522;101206;verworfene Formen
+523;101208;Abfälle aus Keramikerzeugnissen, Ziegeln, Fliesen und Steinzeug (nach dem Brennen)
+524;101209;feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+525;101210;feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 12 09 fallen
+526;101211;Glasurabfälle, die Schwermetalle enthalten
+527;101212;Glasurabfälle mit Ausnahme derjenigen, die unter 10 12 11 fallen
+528;101213;Schlämme aus der betriebseigenen Abwasserbehandlung
+529;101299;Abfälle a. n. g.
+530;1013;Abfälle aus der Herstellung von Zement, Branntkalk, Gips und Erzeugnissen aus diesen
+531;101301;Abfälle von Rohgemenge vor dem Brennen
+532;101304;Abfälle aus der Kalzinierung und Hydratisierung von Branntkalk
+533;101306;Teilchen und Staub (außer 10 13 12 und 10 13 13)
+534;101307;Schlämme und Filterkuchen aus der Abgasbehandlung
+535;101309;asbesthaltige Abfälle aus der Herstellung von Asbestzement
+536;101310;Abfälle aus der Herstellung von Asbestzement mit Ausnahme derjenigen, die unter 10 13 09 fallen
+537;101311;Abfälle aus der Herstellung anderer Verbundstoffe auf Zementbasis mit Ausnahme derjenigen, die unter 10 13 09 und 10 13 10 fallen
+538;101312;feste Abfälle aus der Abgasbehandlung, die gefährliche Stoffe enthalten
+539;101313;feste Abfälle aus der Abgasbehandlung mit Ausnahme derjenigen, die unter 10 13 12 fallen
+540;101314;Betonabfälle und Betonschlämme
+541;101399;Abfälle a. n. g.
+542;1014;Abfälle aus Krematorien
+543;101401;quecksilberhaltige Abfälle aus der Gasreinigung
+544;11;"Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von Metallen und anderen Werkstoffen; Nichteisen-Hydrometallurgie"
+545;1101;Abfälle aus der chemischen Oberflächenbearbeitung und Beschichtung von Metallen und anderen Werkstoffen (z.B. Galvanik, Verzinkung, Beizen, Ätzen, Phosphatieren, alkalisches Entfetten und Anodisierung)
+546;110105;saure Beizlösungen
+547;110106;Säuren a. n. g.
+548;110107;alkalische Beizlösungen
+549;110108;Phosphatierschlämme
+550;110109;Schlämme und Filterkuchen, die gefährliche Stoffe enthalten
+551;110110;Schlämme und Filterkuchen mit Ausnahme derjenigen, die unter 11 01 09 fallen
+552;110111;wässrige Spülflüssigkeiten, die gefährliche Stoffe enthalten
+553;110112;wässrige Spülflüssigkeiten mit Ausnahme derjenigen, die unter 11 01 11 fallen
+554;110113;Abfälle aus der Entfettung, die gefährliche Stoffe enthalten
+555;110114;Abfälle aus der Entfettung mit Ausnahme derjenigen, die unter 11 01 13 fallen
+556;110115;Eluate und Schlämme aus Membransystemen oder Ionenaustauschsystemen, die gefährliche Stoffe enthalten
+557;110116;gesättigte oder verbrauchte Ionenaustauscherharze
+558;110198;andere Abfälle, die gefährliche Stoffe enthalten
+559;110199;Abfälle a. n. g.
+560;1102;Abfälle aus Prozessen der Nichteisen-Hydrometallurgie
+561;110202;Schlämme aus der Zink-Hydrometallurgie (einschließlich Jarosit, Goethit)
+562;110203;Abfälle aus der Herstellung von Anoden für wässrige elektrolytische Prozesse
+563;110205;Abfälle aus Prozessen der Kupfer-Hydrometallurgie, die gefährliche Stoffe enthalten
+564;110206;Abfälle aus Prozessen der Kupfer-Hydrometallurgie mit Ausnahme derjenigen, die unter 11 02 05 fallen
+565;110207;andere Abfälle, die gefährliche Stoffe enthalten
+566;110299;Abfälle a. n. g.
+567;1103;Schlämme und Feststoffe aus Härteprozessen
+568;110301;cyanidhaltige Abfälle
+569;110302;andere Abfälle
+570;1105;Abfälle aus Prozessen der thermischen Verzinkung
+571;110501;Hartzink
+572;110502;Zinkasche
+573;110503;feste Abfälle aus der Abgasbehandlung
+574;110504;gebrauchte Flussmittel
+575;110599;Abfälle a. n. g.
+576;12;Abfälle aus Prozessen der mechanischen Formgebung sowie der physikalischen und mechanischen Oberflächenbearbeitung vom Metallen und Kunststoffen
+577;1201;Abfälle aus Prozessen der mechanischen Formgebung sowie der physikalischen und mechanischen Oberflächenbearbeitung von Metallen und Kunststoffen
+578;120101;Eisenfeil- und -drehspäne
+579;120102;Eisenstaub und -teile
+580;120103;NE-Metallfeil- und -drehspäne
+581;120104;NE-Metallstaub und -teilchen
+582;120105;Kunststoffspäne und -drehspäne
+583;120106;halogenhaltige Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und Lösungen)
+584;120107;halogenfreie Bearbeitungsöle auf Mineralölbasis (außer Emulsionen und Lösungen)
+585;120108;halogenhaltige Bearbeitungsemulsionen und -lösungen
+586;120109;halogenfreie Bearbeitungsemulsionen und -lösungen
+587;120110;synthetische Bearbeitungsöle
+588;120112;gebrauchte Wachse und Fette
+589;120113;Schweißabfälle
+590;120114;Bearbeitungsschlämme, die gefährliche Stoffe enthalten
+591;120115;Bearbeitungsschlämme mit Ausnahme derjenigen, die unter 12 01 14 fallen
+592;120116;Strahlmittelabfälle, die gefährliche Stoffe enthalten
+593;120117;Strahlmittelabfälle mit Ausnahme derjenigen, die unter 12 01 16 fallen
+594;120118;ölhaltige Metallschlämme (Schleif-, Hon- und Läppschlämme)
+595;120119;biologisch leicht abbaubare Bearbeitungsöle
+596;120120;gebrauchte Hon- und Schleifmittel, die gefährliche Stoffe enthalten
+597;120121;gebrauchte Hon- und Schleifmittel mit Ausnahme derjenigen, die unter 12 01 20 fallen
+598;120199;Abfälle a. n. g.
+599;1203;Abfälle aus der Wasser- und Dampfentfettung (außer 11)
+600;120301;wässrige Waschflüssigkeiten
+601;120302;Abfälle aus der Dampfentfettung
+602;13;Ölabfälle und Abfälle aus flüssigen Brennstoffen (außer Speiseöle und Ölabfälle, die unter 05, 12 und 19 fallen)
+603;1301;Abfälle von Hydraulikölen
+604;130101;Hydrauliköle, die PCB 11) enthalten
+605;130104;chlorierte Emulsionen
+606;130105;nichtchlorierte Emulsionen
+607;130109;chlorierte Hydrauliköle auf Mineralölbasis
+608;130110;nichtchlorierte Hydrauliköle auf Mineralölbasis
+609;130111;synthetische Hydrauliköle
+610;130112;biologisch leicht abbaubare Hydrauliköle
+611;130113;andere Hydrauliköle
+612;1302;Abfälle von Maschinen-, Getriebe- und Schmierölen
+613;130204;chlorierte Maschinen-, Getriebe- und Schmieröle auf Mineralölbasis
+614;130205;nichtchlorierte Maschinen-, Getriebe- und Schmieröle auf Mineralölbasis
+615;130206;synthetische Maschinen-, Getriebe- und Schmieröle
+616;130207;biologisch leicht abbaubare Maschinen-, Getriebe- und Schmieröle
+617;130208;andere Maschinen-, Getriebe- und Schmieröle
+618;1303;Abfälle von Isolier- und Wärmeübertragungsölen
+619;130301;Isolier- und Wärmeübertragungsöle, die PCB enthalten
+620;130306;chlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis mit Ausnahme derjenigen, die unter 13 03 01 fallen
+621;130307;nichtchlorierte Isolier- und Wärmeübertragungsöle auf Mineralölbasis
+622;130308;synthetische Isolier- und Wärmeübertragungsöle
+623;130309;biologisch leicht abbaubare Isolier- und Wärmeübertragungsöle
+624;130310;andere Isolier- und Wärmeübertragungsöle
+625;1304;Bilgenöle
+626;130401;Bilgenöle aus der Binnenschifffahrt
+627;130402;Bilgenöle aus Molenablaufkanälen
+628;130403;Bilgenöle aus der übrigen Schifffahrt
+629;1305;Inhalte von Öl-/Wasserabscheidern
+630;130501;feste Abfälle aus Sandfanganlagen und Öl-/Wasserabscheidern
+631;130502;Schlämme aus Öl-/Wasserabscheidern
+632;130503;Schlämme aus Einlaufschächten
+633;130506;Öle aus Öl-/Wasserabscheidern
+634;130507;öliges Wasser aus Öl-/Wasserabscheidern
+635;130508;Abfallgemische aus Sandfanganlagen und Öl-/Wasserabscheidern
+636;1307;Abfälle aus flüssigen Brennstoffen
+637;130701;Heizöl und Diesel
+638;130702;Benzin
+639;130703;andere Brennstoffe (einschließlich Gemische)
+640;1308;Ölabfälle a. n. g.
+641;130801;Schlämme oder Emulsionen aus Entsalzern
+642;130802;andere Emulsionen
+643;130899;Abfälle a. n. g.
+644;14;Abfälle aus organischen Lösemitteln, Kühlmitteln und Treibgasen (außer 07 und 08)
+645;1406;Abfälle aus organischen Lösemitteln, Kühlmitteln sowie Schaum- und Aerosoltreibgasen
+646;140601;Fluorchlorkohlenwasserstoffe, H-FCKW, H-FKW
+647;140602;andere halogenierte Lösemittel und Lösemittelgemische
+648;140603;andere Lösemittel und Lösemittelgemische
+649;140604;Schlämme oder feste Abfälle, die halogenierte Lösemittel enthalten
+650;140605;Schlämme oder feste Abfälle, die andere Lösemittel enthalten
+651;15;Verpackungsabfall, Aufsaugmassen, Wischtücher, Filtermaterialien und Schutzkleidung (a. n. g.)
+652;1501;Verpackungen (einschließlich getrennt gesammelter kommunaler Verpackungsabfälle)
+653;150101;Verpackungen aus Papier und Pappe
+654;150102;Verpackungen aus Kunststoff
+655;150103;Verpackungen aus Holz
+656;150104;Verpackungen aus Metall
+657;150105;Verbundverpackungen
+658;150106;gemischte Verpackungen
+659;150107;Verpackungen aus Glas
+660;150109;Verpackungen aus Textilien
+661;150110;Verpackungen, die Rückstände gefährlicher Stoffe enthalten oder durch gefährliche Stoffe verunreinigt sind
+662;150111;Verpackungen aus Metall, die eine gefährliche feste poröse Matrix (z.B. Asbest) enthalten, einschließlich geleerter Druckbehältnisse
+663;1502;Aufsaug- und Filtermaterialien, Wischtücher und Schutzkleidung
+664;150202;Aufsaug- und Filtermaterialien (einschließlich Ölfilter a. n. g.), Wischtücher und Schutzkleidung, die durch gefährliche Stoffe verunreinigt sind
+665;150203;Aufsaug- und Filtermaterialien, Wischtücher und Schutzkleidung mit Ausnahme derjenigen, die unter 15 02 02 fallen
+666;16;Abfälle, die nicht anderswo im Verzeichnis aufgeführt sind
+667;1601;Altfahrzeuge verschiedener Verkehrsträger (einschließlich mobiler Maschinen) und Abfälle aus der Demontage von Altfahrzeugen sowie der Fahrzeugwartung (außer 13, 14, 16 06 und 16 08)
+668;160103;Altreifen
+669;160104;Altfahrzeuge
+670;160106;Altfahrzeuge, die weder Flüssigkeiten noch andere gefährliche Bestandteile enthalten
+671;160107;Ölfilter
+672;160108;quecksilberhaltige Bestandteile
+673;160109;Bestandteile, die PCB enthalten
+674;160110;explosive Bauteile (z.B. aus Airbags)
+675;160111;asbesthaltige Bremsbeläge
+676;160112;Bremsbeläge mit Ausnahme derjenigen, die unter 16 01 11 fallen
+677;160113;Bremsflüssigkeiten
+678;160114;Frostschutzmittel, die gefährliche Stoffe enthalten
+679;160115;Frostschutzmittel mit Ausnahme derjenigen, die unter 16 01 14 fallen
+680;160116;Flüssiggasbehälter
+681;160117;Eisenmetalle
+682;160118;Nichteisenmetalle
+683;160119;Kunststoffe
+684;160120;Glas
+685;160121;gefährliche Bauteile mit Ausnahme derjenigen, die unter 16 01 07 bis 16 01 11, 16 01 13 und 16 01 14 fallen
+686;160122;Bauteile a.n.g.
+687;160199;Abfälle a. n. g.
+688;1602;Abfälle aus elektrischen und elektronischen Geräten
+689;160209;Transformatoren und Kondensatoren, die PCB enthalten
+690;160210;gebrauchte Geräte, die PCB enthalten oder damit verunreinigt sind, mit Ausnahme derjenigen, die unter 16 02 09 fallen
+691;160211;gebrauchte Geräte, die teil- und vollhalogenierte Fluorchlorkohlenwasserstoffe enthalten
+692;160212;gebrauchte Geräte, die freies Asbest enthalten
+693;160213;gefährliche Bestandteile 22) enthaltende gebrauchte Geräte mit Ausnahme derjenigen, die unter 16 02 09 bis 16 02 12 fallen
+694;160214;gebrauchte Geräte mit Ausnahme derjenigen, die unter 16 02 09 bis 16 02 13 fallen
+695;160215;aus gebrauchten Geräten entfernte gefährliche Bestandteile
+696;160216;aus gebrauchten Geräten entfernte Bestandteile mit Ausnahme derjenigen, die unter 16 02 15 fallen
+697;1603;Fehlchargen und ungebrauchte Erzeugnisse
+698;160303;anorganische Abfälle, die gefährliche Stoffe enthalten
+699;160304;anorganische Abfälle mit Ausnahme derjenigen, die unter 16 03 03 fallen
+700;160305;organische Abfälle, die gefährliche Stoffe enthalten
+701;160306;organische Abfälle mit Ausnahme derjenigen, die unter 16 03 05 fallen
+702;1604;Explosivabfälle
+703;160401;Munition
+704;160402;Feuerwerkskörperabfälle
+705;160403;andere Explosivabfälle
+706;1605;Gase in Druckbehältern und gebrauchte Chemikalien
+707;160504;gefährliche Stoffe enthaltende Gase in Druckbehältern (einschließlich Halonen)
+708;160505;Gase in Druckbehältern mit Ausnahme derjenigen, die unter 16 05 04 fallen
+709;160506;Laborchemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten, einschließlich Gemische von Laborchemikalien
+710;160507;gebrauchte anorganische Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten
+711;160508;gebrauchte organische Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten
+712;160509;gebrauchte Chemikalien mit Ausnahme derjenigen, die unter 16 05 06, 16 05 07 oder 16 05 08 fallen
+713;1606;Batterien und Akkumulatoren
+714;160601;Bleibatterien
+715;160602;Ni-Cd-Batterien
+716;160603;Quecksilber enthaltende Batterien
+717;160604;Alkalibatterien (außer 16 06 03)
+718;160605;andere Batterien und Akkumulatoren
+719;160606;getrennt gesammelte Elektrolyte aus Batterien und Akkumulatoren
+720;1607;Abfälle aus der Reinigung von Transport- und Lagertanks und Fässern (außer 05 und 13)
+721;160708;ölhaltige Abfälle
+722;160709;Abfälle, die sonstige gefährliche Stoffe enthalten
+723;160799;Abfälle a. n. g.
+724;1608;Gebrauchte Katalysatoren
+725;160801;gebrauchte Katalysatoren, die Gold, Silber, Rhenium, Rhodium, Palladium, Iridium oder Platin enthalten (außer 16 08 07)
+726;160802;gebrauchte Katalysatoren, die gefährliche Übergangsmetalle 33) oder deren Verbindungen enthalten
+727;160803;gebrauchte Katalysatoren, die Übergangsmetalle oder deren Verbindungen enthalten, a. n. g.
+728;160804;gebrauchte Katalysatoren von Crackprozessen (außer 16 08 07)
+729;160805;gebrauchte Katalysatoren, die Phosphorsäure enthalten
+730;160806;gebrauchte Flüssigkeiten, die als Katalysatoren verwendet wurden
+731;160807;gebrauchte Katalysatoren, die durch gefährliche Stoffe verunreinigt sind
+732;1609;Oxidierende Stoffe
+733;160901;Permanganate, z.B. Kaliumpermanganat
+734;160902;Chromate, z.B. Kaliumchromat, Kalium- oder Natriumdichromat
+735;160903;Peroxide, z.B. Wasserstoffperoxid
+736;160904;oxidierende Stoffe a. n. g.
+737;1610;Wässrige flüssige Abfälle zur externen Behandlung
+738;161001;wässrige flüssige Abfälle, die gefährliche Stoffe enthalten
+739;161002;wässrige flüssige Abfälle mit Ausnahme derjenigen, die unter 16 10 01 fallen
+740;161003;wässrige Konzentrate, die gefährliche Stoffe enthalten
+741;161004;wässrige Konzentrate mit Ausnahme derjenigen, die unter 16 10 03 fallen
+742;1611;Gebrauchte Auskleidungen und feuerfeste Materialien
+743;161101;Auskleidungen und feuerfeste Materialien auf Kohlenstoffbasis aus metallurgischen Prozessen, die gefährliche Stoffe enthalten
+744;161102;Auskleidungen und feuerfeste Materialien auf Kohlenstoffbasis aus metallurgischen Prozessen mit Ausnahme derjenigen, die unter 16 11 01 fallen
+745;161103;andere Auskleidungen und feuerfeste Materialien aus metallurgischen Prozessen, die gefährliche Stoffe enthalten
+746;161104;Auskleidungen und feuerfeste Materialien aus metallurgischen Prozessen mit Ausnahme derjenigen, die unter 16 11 03 fallen
+747;161105;Auskleidungen und feuerfeste Materialien aus nichtmetallurgischen Prozessen, die gefährliche Stoffe enthalten
+748;161106;Auskleidungen und feuerfeste Materialien aus nichtmetallurgischen Prozessen mit Ausnahme derjenigen, die unter 16 11 05 fallen
+749;17;Bau- und Abbruchabfälle (einschließlich Aushub von verunreinigten Standorten)
+750;1701;Beton, Ziegel, Fliesen und Keramik
+751;170101;Beton
+752;170102;Ziegel
+753;170103;Fliesen, Ziegel und Keramik
+754;170106;Gemische aus oder getrennte Fraktionen von Beton, Ziegeln, Fliesen und Keramik, die gefährliche Stoffe enthalten
+755;170107;Gemische aus Beton, Ziegeln, Fliesen und Keramik mit Ausnahme derjenigen, die unter 17 01 06 fallen
+756;1702;Holz, Glas und Kunststoff
+757;170201;Holz
+758;170202;Glas
+759;170203;Kunststoff
+760;170204;Glas, Kunststoff und Holz, die gefährliche Stoffe enthalten oder durch gefährliche Stoffe verunreinigt sind
+761;1703;Bitumengemische, Kohlenteer und teerhaltige Produkte
+762;170301;kohlenteerhaltige Bitumengemische
+763;170302;Bitumengemische mit Ausnahme derjenigen, die unter 17 03 01 fallen
+764;170303;Kohlenteer und teerhaltige Produkte
+765;1704;Metalle (einschließlich Legierungen)
+766;170401;Kupfer, Bronze, Messing
+767;170402;Aluminium
+768;170403;Blei
+769;170404;Zink
+770;170405;Eisen und Stahl
+771;170406;Zinn
+772;170407;gemischte Metalle
+773;170409;Metallabfälle, die durch gefährliche Stoffe verunreinigt sind
+774;170410;Kabel, die Öl, Kohlenteer oder andere gefährliche Stoffe enthalten
+775;170411;Kabel mit Ausnahme derjenigen, die unter 17 04 10 fallen
+776;1705;Boden (einschließlich Aushub von verunreinigten Standorten), Steine und Baggergut
+777;170503;Boden und Steine, die gefährliche Stoffe enthalten
+778;170504;Boden und Steine mit Ausnahme derjenigen, die unter 17 05 03 fallen
+779;170505;Baggergut, das gefährliche Stoffe enthält
+780;170506;Baggergut mit Ausnahme desjenigen, das unter 17 05 05 fällt
+781;170507;Gleisschotter, der gefährliche Stoffe enthält
+782;170508;Gleisschotter mit Ausnahme desjenigen, der unter 17 05 07 fällt
+783;1706;Dämmmaterial und asbesthaltige Baustoffe
+784;170601;Dämmmaterial, das Asbest enthält
+785;170603;anderes Dämmmaterial, das aus gefährlichen Stoffen besteht oder solche Stoffe enthält
+786;170604;Dämmmaterial mit Ausnahme desjenigen, das unter 17 06 01 und 17 06 03 fällt
+787;170605;asbesthaltige Baustoffe
+788;1708;Baustoffe auf Gipsbasis
+789;170801;Baustoffe auf Gipsbasis, die durch gefährliche Stoffe verunreinigt sind
+790;170802;Baustoffe auf Gipsbasis mit Ausnahme derjenigen, die unter 17 08 01 fallen
+791;1709;Sonstige Bau- und Abbruchabfälle
+792;170901;Bau- und Abbruchabfälle, die Quecksilber enthalten
+793;170902;Bau- und Abbruchabfälle, die PCB enthalten (z.B. PCB-haltige Dichtungsmassen, PCB-haltige Bodenbeläge auf Harzbasis, PCB-haltige Isolierverglasungen, PCB-haltige Kondensatoren)
+794;170903;sonstige Bau- und Abbruchabfälle (einschließlich gemischte Abfälle), die gefährliche Stoffe enthalten
+795;170904;gemischte Bau- und Abbruchabfälle mit Ausnahme derjenigen, die unter 17 09 01, 17 09 02 und 17 09 03 fallen
+796;18;Abfälle aus der humanmedizinischen oder tierärztlichen Versorgung und Forschung (ohne Küchen- und Restaurantabfälle, die nicht aus der unmittelbaren Krankenpflege stammen)
+797;1801;Abfälle aus der Geburtshilfe, Diagnose, Behandlung oder Vorbeugung von Krankheiten beim Menschen
+798;180101;spitze oder scharfe Gegenstände (außer 18 01 03)
+799;180102;Körperteile und Organe, einschließlich Blutbeutel und Blutkonserven (außer 18 01 03)
+800;180103;Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht besondere Anforderungen gestellt werden
+801;180104;Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht keine besonderen Anforderungen gestellt werden (z. B. Wund- und Gipsverbände, Wäsche, Einwegkleidung, Windeln)
+802;180106;Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten
+803;180107;Chemikalien mit Ausnahme derjenigen, die unter 18 01 06 fallen
+804;180108;zytotoxische und zytostatische Arzneimittel
+805;180109;Arzneimittel mit Ausnahme derjenigen, die unter 18 01 08 fallen
+806;180110;Amalgamabfälle aus der Zahnmedizin
+807;1802;Abfälle aus Forschung, Diagnose, Krankenbehandlung und Vorsorge bei Tieren
+808;180201;spitze oder scharfe Gegenstände mit Ausnahme derjenigen, die unter 18 02 02 fallen
+809;180202;Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht besondere Anforderungen gestellt werden
+810;180203;Abfälle, an deren Sammlung und Entsorgung aus infektionspräventiver Sicht keine besonderen Anforderungen gestellt werden
+811;180205;Chemikalien, die aus gefährlichen Stoffen bestehen oder solche enthalten
+812;180206;Chemikalien mit Ausnahme derjenigen, die unter 18 02 05 fallen
+813;180207;zytotoxische und zytostatische Arzneimittel
+814;180208;Arzneimittel mit Ausnahme derjenigen, die unter 18 02 07 fallen
+815;19;Abfälle aus Abfallbehandlungsanlagen, öffentlichen Abwasserbehandlungsanlagen sowie der Aufbereitung von Wasser für den menschlichen Gebrauch und Wasser für industrielle Zwecke
+816;1901;Abfälle aus der Verbrennung oder Pyrolyse von Abfällen
+817;190102;Eisenteile, aus der Rost- und Kesselasche entfernt
+818;190105;Filterkuchen aus der Abgasbehandlung
+819;190106;wässrige flüssige Abfälle aus der Abgasbehandlung und andere wässrige flüssige Abfälle
+820;190107;feste Abfälle aus der Abgasbehandlung
+821;190110;gebrauchte Aktivkohle aus der Abgasbehandlung
+822;190111;Rost- und Kesselaschen sowie Schlacken, die gefährliche Stoffe enthalten
+823;190112;Rost- und Kesselaschen sowie Schlacken mit Ausnahme derjenigen, die unter 19 01 11 fallen
+824;190113;Filterstaub, der gefährliche Stoffe enthält
+825;190114;Filterstaub mit Ausnahme desjenigen, der unter 19 01 13 fällt
+826;190115;Kesselstaub, der gefährliche Stoffe enthält
+827;190116;Kesselstaub mit Ausnahme desjenigen, der unter 19 01 15 fällt
+828;190117;Pyrolyseabfälle, die gefährliche Stoffe enthalten
+829;190118;Pyrolyseabfälle mit Ausnahme derjenigen, die unter 19 01 17 fallen
+830;190119;Sande aus der Wirbelschichtfeuerung
+831;190199;Abfälle a. n. g.
+832;1902;Abfälle aus der physikalisch-chemischen Behandlung von Abfällen (einschließlich Dechromatisierung, Cyanidentfernung, Neutralisation)
+833;190203;vorgemischte Abfälle, die ausschließlich aus nicht gefährlichen Abfällen bestehen
+834;190204;vorgemischte Abfälle, die wenigstens einen gefährlichen Abfall enthalten
+835;190205;Schlämme aus der physikalisch-chemischen Behandlung, die gefährliche Stoffe enthalten
+836;190206;Schlämme aus der physikalisch-chemischen Behandlung mit Ausnahme derjenigen, die unter 19 02 05 fallen
+837;190207;Öl und Konzentrate aus Abtrennprozessen
+838;190208;flüssige brennbare Abfälle, die gefährliche Stoffe enthalten
+839;190209;feste brennbare Abfälle, die gefährliche Stoffe enthalten
+840;190210;brennbare Abfälle mit Ausnahme derjenigen, die unter 19 02 08 und 19 02 09 fallen
+841;190211;sonstige Abfälle, die gefährliche Stoffe enthalten
+842;190299;Abfälle a. n. g.
+843;1903;Stabilisierte und verfestigte Abfälle 44)
+844;190304;als gefährlich eingestufte teilweise stabilisierte 55) Abfälle
+845;190305;stabilisierte Abfälle mit Ausnahme derjenigen, die unter 19 03 04 fallen
+846;190306;als gefährlich eingestufte verfestigte Abfälle
+847;190307;verfestigte Abfälle mit Ausnahme derjenigen, die unter 19 03 06 fallen
+848;1904;Verglaste Abfälle und Abfälle aus der Verglasung
+849;190401;verglaste Abfälle
+850;190402;Filterstaub und andere Abfälle aus der Abgasbehandlung
+851;190403;nicht verglaste Festphase
+852;190404;wässrige flüssige Abfälle aus dem Tempern
+853;1905;Abfälle aus der aeroben Behandlung von festen Abfällen
+854;190501;nicht kompostierte Fraktion von Siedlungs- und ähnlichen Abfällen
+855;190502;nicht kompostierte Fraktion von tierischen und pflanzlichen Abfällen
+856;190503;nicht spezifikationsgerechter Kompost
+857;190599;Abfälle a. n. g.
+858;1906;Abfälle aus der anaeroben Behandlung von Abfällen
+859;190603;Flüssigkeiten aus der anaeroben Behandlung von Siedlungsabfällen
+860;190604;Gärrückstand/-schlamm aus der anaeroben Behandlung von Siedlungsabfällen
+861;190605;Flüssigkeiten aus der anaeroben Behandlung von tierischen und pflanzlichen Abfällen
+862;190606;Gärrückstand/-schlamm aus der anaeroben Behandlung von tierischen und pflanzlichen Abfällen
+863;190699;Abfälle a. n. g.
+864;1907;Deponiesickerwasser
+865;190702;Deponiesickerwasser, das gefährliche Stoffe enthält
+866;190703;Deponiesickerwasser mit Ausnahme desjenigen, das unter 19 07 02 fällt
+867;1908;Abfälle aus Abwasserbehandlungsanlagen a. n. g.
+868;190801;Sieb- und Rechenrückstände
+869;190802;Sandfangrückstände
+870;190805;Schlämme aus der Behandlung von kommunalem Abwasser
+871;190806;gesättigte oder verbrauchte Ionenaustauscherharze
+872;190807;Lösungen und Schlämme aus der Regeneration von Ionenaustauschern
+873;190808;schwermetallhaltige Abfälle aus Membransystemen
+874;190809;Fett- und Ölmischungen aus Ölabscheidern, die ausschließlich Speiseöle und -fette enthalten
+875;190810;Fett- und Ölmischungen aus Ölabscheidern mit Ausnahme derjenigen, die unter 19 08 09 fallen
+876;190811;Schlämme aus der biologischen Behandlung von industriellem Abwasser, die gefährliche Stoffe enthalten
+877;190812;Schlämme aus der biologischen Behandlung von industriellem Abwasser mit Ausnahme derjenigen, die unter 19 08 11 fallen
+878;190813;Schlämme, die gefährliche Stoffe aus einer anderen Behandlung von industriellem Abwasser enthalten
+879;190814;Schlämme aus einer anderen Behandlung von industriellem Abwasser mit Ausnahme derjenigen, die unter 19 08 13 fallen
+880;190899;Abfälle a. n. g.
+881;1909;Abfälle aus der Zubereitung von Wasser für den menschlichen Gebrauch oder industriellem Brauchwasser
+882;190901;feste Abfälle aus der Erstfiltration und Siebrückstände
+883;190902;Schlämme aus der Wasserklärung
+884;190903;Schlämme aus der Dekarbonatisierung
+885;190904;gebrauchte Aktivkohle
+886;190905;gesättigte oder gebrauchte Ionenaustauscherharze
+887;190906;Lösungen und Schlämme aus der Regeneration von Ionenaustauschern
+888;190999;Abfälle a. n. g.
+889;1910;Abfälle aus dem Schreddern von metallhaltigen Abfällen
+890;191001;Eisen- und Stahlabfälle
+891;191002;NE-Metall-Abfälle
+892;191003;Schredderleichtfraktionen und Staub, die gefährliche Stoffe enthalten
+893;191004;Schredderleichtfraktionen und Staub mit Ausnahme derjenigen, die unter 19 10 03 fallen
+894;191005;andere Fraktionen, die gefährliche Stoffe enthalten
+895;191006;andere Fraktionen mit Ausnahme derjenigen, die unter 19 10 05 fallen
+896;1911;Abfälle aus der Altölaufbereitung
+897;191101;gebrauchte Filtertone
+898;191102;Säureteere
+899;191103;wässrige flüssige Abfälle
+900;191104;Abfälle aus der Brennstoffreinigung mit Basen
+901;191105;Schlämme aus der betriebseigenen Abwasserbehandlung, die gefährliche Stoffe enthalten
+902;191106;Schlämme aus der betriebseigenen Abwasserbehandlung mit Ausnahme derjenigen, die unter 19 11 05 fallen
+903;191107;Abfälle aus der Abgasreinigung
+904;191199;Abfälle a. n. g.
+905;1912;Abfälle aus der mechanischen Behandlung von Abfällen (z. B. Sortieren, Zerkleinern, Verdichten, Pelletieren) a. n. g.
+906;191201;Papier und Pappe
+907;191202;Eisenmetalle
+908;191203;Nichteisenmetalle
+909;191204;Kunststoff und Gummi
+910;191205;Glas
+911;191206;Holz, das gefährliche Stoffe enthält
+912;191207;Holz mit Ausnahme desjenigen, das unter 19 12 06 fällt
+913;191208;Textilien
+914;191209;Mineralien (z.B. Sand, Steine)
+915;191210;brennbare Abfälle (Brennstoffe aus Abfällen)
+916;191211;sonstige Abfälle (einschließlich Materialmischungen) aus der mechanischen Behandlung von Abfällen, die gefährliche Stoffe enthalten
+917;191212;sonstige Abfälle (einschließlich Materialmischungen) aus der mechanischen Behandlung von Abfällen mit Ausnahme derjenigen, die unter 19 12 11 fallen
+918;1913;Abfälle aus der Sanierung von Böden und Grundwasser
+919;191301;feste Abfälle aus der Sanierung von Böden, die gefährliche Stoffe enthalten
+920;191302;feste Abfälle aus der Sanierung von Böden mit Ausnahme derjenigen, die unter 19 13 01 fallen
+921;191303;Schlämme aus der Sanierung von Böden, die gefährliche Stoffe enthalten
+922;191304;Schlämme aus der Sanierung von Böden mit Ausnahme derjenigen, die unter 19 13 03 fallen
+923;191305;Schlämme aus der Sanierung von Grundwasser, die gefährliche Stoffe enthalten
+924;191306;Schlämme aus der Sanierung von Grundwasser mit Ausnahme derjenigen, die unter 19 13 05 fallen
+925;191307;wässrige flüssige Abfälle und wässrige Konzentrate aus der Sanierung von Grundwasser, die gefährliche Stoffe enthalten
+926;191308;wässrige flüssige Abfälle und wässrige Konzentrate aus der Sanierung von Grundwasser mit Ausnahme derjenigen, die unter 19 13 07 fallen
+927;20;Siedlungsabfälle (Haushaltsabfälle und ähnliche gewerbliche und industrielle Abfälle sowie Abfälle aus Einrichtungen), einschließlich getrennt gesammelter Fraktionen
+928;2001;Getrennt gesammelte Fraktionen (außer 15 01)
+929;200101;Papier und Pappe
+930;200102;Glas
+931;200108;biologisch abbaubare Küchen- und Kantinenabfälle
+932;200110;Bekleidung
+933;200111;Textilien
+934;200113;Lösemittel
+935;200114;Säuren
+936;200115;Laugen
+937;200117;Fotochemikalien
+938;200119;Pestizide
+939;200121;Leuchtstoffröhren und andere quecksilberhaltige Abfälle
+940;200123;gebrauchte Geräte, die Fluorchlorkohlenwasserstoffe enthalten
+941;200125;Speiseöle und -fette
+942;200126;Öle und Fette mit Ausnahme derjenigen, die unter 20 01 25 fallen
+943;200127;Farben, Druckfarben, Klebstoffe und Kunstharze, die gefährliche Stoffe enthalten
+944;200128;Farben, Druckfarben, Klebstoffe und Kunstharze mit Ausnahme derjenigen, die unter 20 01 27 fallen
+945;200129;Reinigungsmittel, die gefährliche Stoffe enthalten
+946;200130;Reinigungsmittel mit Ausnahme derjenigen, die unter 20 01 29 fallen
+947;200131;zytotoxische und zytostatische Arzneimittel
+948;200132;Arzneimittel mit Ausnahme derjenigen, die unter 20 01 31 fallen
+949;200133;Batterien und Akkumulatoren, die unter 16 06 01, 16 06 02 oder 16 06 03 fallen, sowie gemischte Batterien und Akkumulatoren, die solche Batterien enthalten
+950;200134;Batterien und Akkumulatoren mit Ausnahme derjenigen, die unter 20 01 33 fallen
+951;200135;gebrauchte elektrische und elektronische Geräte, die gefährliche Bauteile 66) enthalten, mit Ausnahme derjenigen, die unter 20 01 21 und 20 01 23 fallen
+952;200136;gebrauchte elektrische und elektronische Geräte mit Ausnahme derjenigen, die unter 20 01 21, 20 01 23 und 20 01 35 fallen
+953;200137;Holz, das gefährliche Stoffe enthält
+954;200138;Holz mit Ausnahme desjenigen, das unter 20 01 37 fällt
+955;200139;Kunststoffe
+956;200140;Metalle
+957;200141;Abfälle aus der Reinigung von Schornsteinen
+958;200199;sonstige Fraktionen a. n. g.
+959;2002;Garten- und Parkabfälle (einschließlich Friedhofsabfälle)
+960;200201;biologisch abbaubare Abfälle
+961;200202;Boden und Steine
+962;200203;andere nicht biologisch abbaubare Abfälle
+963;2003;Andere Siedlungsabfälle
+964;200301;gemischte Siedlungsabfälle
+965;200302;Marktabfälle
+966;200303;Straßenkehricht
+967;200304;Fäkalschlamm
+968;200306;Abfälle aus der Kanalreinigung
+969;200307;Sperrmüll
+970;200399;Siedlungsabfälle a. n. g.
